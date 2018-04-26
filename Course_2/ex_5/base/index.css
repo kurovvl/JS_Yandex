@@ -47,6 +47,10 @@ body
 
 .header__weather-title
 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.17em;
+    font-weight: bold;
+    text-align: center;
     margin: 0;
 }
 
