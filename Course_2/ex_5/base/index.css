@@ -136,7 +136,7 @@ body
     font-weight: bold;
     font-size: .8em;
     text-align: center;
-    /* margin-bottom: -15px; */
+    column-span: all;
     margin-top: 10px;
 }
 
@@ -220,7 +220,7 @@ body
 {
     margin-top: 10px;
 }
-.article__content
+.multicolumn .article__content
 {
     column-count: 2;
 }
