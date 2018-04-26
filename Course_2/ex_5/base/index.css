@@ -244,6 +244,14 @@ body
     font-size: 2em;
     font-weight: bold;
 }
+
+.article__title_font_farsan
+{
+    font-family: 'Farsan';
+    font-style: italic;
+    font-size: 2.3em;
+    font-weight: bold;
+}
 .multicolumn__right
 {
     padding-left: 10px;
