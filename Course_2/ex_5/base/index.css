@@ -125,7 +125,9 @@ body
 .article__author
 {
     display: block;
-
+    font-weight: bold;
+    font-size: .8em;
+    text-align: center;
     margin-top: 10px;
 }
 
