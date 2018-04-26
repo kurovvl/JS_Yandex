@@ -86,7 +86,7 @@ body
 .sub-header__copyright
 {
     display: inline-block;
-
+    font-size: .6em;
     margin: 0 30px;
 }
 
