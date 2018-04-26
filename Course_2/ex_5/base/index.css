@@ -58,6 +58,11 @@ body
 .header__title
 {
     overflow: visible;
+    font-family: 'olde_englishregular';
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    line-height: .9em;
     margin: 0;
 }
 
