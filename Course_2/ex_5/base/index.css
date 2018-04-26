@@ -224,6 +224,7 @@ body
 .multicolumn .article__content
 {
     column-count: 2;
+    column-gap: 15px;
 }
 .multicolumn__right,
 .multicolumn__left
