@@ -142,6 +142,10 @@ body
 
 .article__continue
 {
+    font-size: .8em;
+    text-align: center;
+    font-style: italic;
+    column-span: all;
     display: block;
 }
 
