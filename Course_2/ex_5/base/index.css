@@ -30,6 +30,7 @@ body
 .header__info
 {
     float: left;
+    text-align: center;
     box-sizing: border-box;
     width: 200px;
     padding: 25px 10px;
