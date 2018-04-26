@@ -220,7 +220,10 @@ body
 {
     margin-top: 10px;
 }
-
+.article__content
+{
+    column-count: 2;
+}
 .multicolumn__right,
 .multicolumn__left
 {
