@@ -102,6 +102,13 @@ body
     display: flex;
 }
 
+.content p
+{
+    font-size: .8em;
+    text-align: justify;
+    text-indent: 1em;
+}
+
 /*––––––––––––––––––Блок статьи–––––––––––––––––––––*/
 .article__title
 {
@@ -128,6 +135,7 @@ body
     font-weight: bold;
     font-size: .8em;
     text-align: center;
+    /* margin-bottom: -15px; */
     margin-top: 10px;
 }
 
@@ -155,6 +163,7 @@ body
     font-size: 1.17em;
     font-weight: bold;
     text-align: center;
+    
     margin: 10px 0;
 }
 
