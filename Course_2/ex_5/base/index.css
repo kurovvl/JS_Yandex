@@ -142,6 +142,7 @@ body
 
 .article__continue
 {
+    margin: 0.5em;;
     font-size: .8em;
     text-align: center;
     font-style: italic;
@@ -236,6 +237,13 @@ body
 
 }
 
+.article__title_font_racing
+{
+    font-family: 'Racing Sans One';
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bold;
+}
 .multicolumn__right
 {
     padding-left: 10px;
